@@ -18,3 +18,8 @@ Preview:
 
 ![image](https://github.com/gnohiy/hostel-management-system/assets/105278322/8575e62c-a1e2-4b6d-83b8-7e214025a69a)
 
+![image](https://github.com/gnohiy/hostel-management-system/assets/105278322/6001f9a1-ab58-4f13-9a9d-d20348af4cd1)
+
+![image](https://github.com/gnohiy/hostel-management-system/assets/105278322/ec86c008-e116-4322-b3e5-d0a1cedb280a)
+
+![image](https://github.com/gnohiy/hostel-management-system/assets/105278322/2c19c22c-40ab-4d34-bd5c-1ec17fe99ac0)
